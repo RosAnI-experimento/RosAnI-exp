@@ -1,0 +1,10 @@
+# Ambientes virtuais e cache do Python
+venv/
+__pycache__/
+
+# Arquivos de variáveis de ambiente com segredos
+.env
+
+# Logs e arquivos de configuração de IDEs
+*.log
+.vscode/
